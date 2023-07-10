@@ -89,7 +89,6 @@ def zero_diag(A):
 def is_symmetric(As):
     """Check if a sparse matrix is symmetric
 
-    Parameters
     ----------
     As : array or sparse matrix
         A square matrix.
